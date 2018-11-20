@@ -1,9 +1,9 @@
 # ？？？「これぐらいの奇蹟…安いもの！！」1種2種混合機 80% ループシミュレーター
-## Screenshot
+## :rice::rice: Screenshot
 
 ![default](https://user-images.githubusercontent.com/45185896/48745938-b3d0b980-ecb0-11e8-9214-21fcf623282e.gif)
 
-## Feature
+## :musical_score: Feature
 
 シミュレーターと言いつつゲーム感覚で楽しめるものにしています。
 ラッシュを継続させて「継続数」と「ポイント数」を競う感じです。
@@ -79,15 +79,15 @@
 
 リアルで50 連とかさせる豪運の持ち主もいるそうなので、ぜひ目指してみてください！（~~リアルで~~）
 
-## Usage
+## :memo::zzz: Usage
 
 ```
 $ git clone https://github.com/azukisiromochi/ikirunowo-akiramenaide.git
 $ go run ./
 ```
-## Installation
+## :rocket::full_moon_with_face: Installation
 ### For Windows
 :link: https://github.com/azukisiromochi/ikirunowo-akiramenaide/releases
 
-## License
+## :syringe: License
 MIT
